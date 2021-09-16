@@ -1,5 +1,6 @@
-package priya;
+//Remove Element
 
+package priya;
 public class Remove_Element {
 		    public int removeElement(int[] nums, int val) {
 		        
