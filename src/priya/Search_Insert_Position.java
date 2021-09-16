@@ -13,7 +13,7 @@ public class Search_Insert_Position {
 	           
 	       }
 	        
-	        return nums.length;
+	        return nums.length; //target greater than all element return the last index
 	    }
 	}
 
